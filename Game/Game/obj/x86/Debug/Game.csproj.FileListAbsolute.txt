@@ -1,0 +1,7 @@
+C:\Users\max  computer\Documents\Visual Studio 2012\Projects\Game\Game\bin\Debug\Game.exe
+C:\Users\max  computer\Documents\Visual Studio 2012\Projects\Game\Game\bin\Debug\Game.pdb
+C:\Users\max  computer\Documents\Visual Studio 2012\Projects\Game\Game\bin\Debug\GraphDLL.dll
+C:\Users\max  computer\Documents\Visual Studio 2012\Projects\Game\Game\bin\Debug\Toub.Sound.Midi.dll
+C:\Users\max  computer\Documents\Visual Studio 2012\Projects\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\max  computer\Documents\Visual Studio 2012\Projects\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\max  computer\Documents\Visual Studio 2012\Projects\Game\Game\obj\x86\Debug\Game.pdb
